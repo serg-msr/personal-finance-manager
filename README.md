@@ -1,3 +1,3 @@
-# Personal Finance MAnager
+# Personal Finance Manager
 
-A personal finance managemane application with Python and SQL.
+A personal finance management application with Python and SQL.
